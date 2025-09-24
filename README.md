@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Oracle,SSIS,SSRS,Python
 - 💞️ I’m looking to collaborate on Data Driven Projects
 - 📫 How to reach me: onneile.mogawane@gmail.com Linkedin: Onneile Mogawane
-- 💡 Fun Fact: Before data, chicken wings had my heart
+
 
 <!---
 Onneile-Mogawane/Onneile-Mogawane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
